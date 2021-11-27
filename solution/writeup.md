@@ -312,6 +312,6 @@ $
 
 # Ressources and Tools
 
-gef: https://github.com/hugsy/gef
-ROPGadet: https://github.com/JonathanSalwan/ROPgadget
-Pwntools: https://github.com/Gallopsled/pwntools
+gef: https://github.com/hugsy/gef  
+ROPGadet: https://github.com/JonathanSalwan/ROPgadget  
+Pwntools: https://github.com/Gallopsled/pwntools  

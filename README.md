@@ -23,10 +23,11 @@ docker build -t ret2libc .
 docker run -p 80:80 -p 1024:1024 --name ret2libc ret2libc
 ```
 
-At http://localhost/ there should now be a website and with `nc localhost 1024` you should be greeted by the challenge
+At http://localhost/ there should now be a website  
+With `nc localhost 1024` you should be greeted by the challenge
 
 ## Solution
 
-A working exploit can be found at `solution/exploit.py`.
-A more detailed step by step explanation can be found at `solution/writeup.md`
+A working exploit can be found at `solution/exploit.py`.  
+A more detailed step by step explanation can be found at `solution/writeup.md`  
 
